@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Node Js<br>🌱 I’m currently learning : PyGame<br>💬 Ask me about : Python
+🔭 I’m currently working on : Node Js<br>🌱 I’m currently learning : Django<br>💬 Ask me about : Python
 
 
 ## 🌐 Socials:
